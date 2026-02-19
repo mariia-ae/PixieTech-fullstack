@@ -7,7 +7,8 @@ cd BackendPixieTech
 python manage.py collectstatic --noinput
 python manage.py migrate
 
-python manage.py createsuperuser \
---username admin \
---email admin@example.com \
---noinput || true
+export DJANGO_SUPERUSER_USERNAME=admin
+export DJANGO_SUPERUSER_EMAIL=admin@example.com
+export DJANGO_SUPERUSER_PASSWORD=admin123456
+
+python manage.py createsuperuser --noinput || true
