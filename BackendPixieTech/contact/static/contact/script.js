@@ -112,7 +112,7 @@ if (newsletterForm && newsletterContent && newsletterSuccess) {
             alert("Bitte Email eingeben");
             return;
         }
-        fetch("http://127.0.0.1:8000/api/newsletter/", {
+        fetch("/api/newsletter/", {
             method:"POST",
             headers:{
                 "Content-type": "application/json"
