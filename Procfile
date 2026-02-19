@@ -1,1 +1,1 @@
-web: gunicorn BackendPixieTech.backend.wsgi
+web: gunicorn BackendPixieTech.backend.wsgi:application
