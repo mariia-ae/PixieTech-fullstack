@@ -1,1 +1,1 @@
-web: cd BackendPixieTech && gunicorn backend.wsgi:application
+web: gunicorn BackendPixieTech.backend.wsgi:application
