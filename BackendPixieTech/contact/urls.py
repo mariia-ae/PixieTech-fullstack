@@ -3,7 +3,7 @@ from .views import contact_api, short_contact
 
 
 urlpatterns = [
-    path('/contact/', contact_api),
+    path('contact/', contact_api),
     path('short/', short_contact),
 ]
 from .views import index_page, contact_page, about_page, services_page, contact_form_page
