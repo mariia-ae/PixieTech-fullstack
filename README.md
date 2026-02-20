@@ -1,30 +1,54 @@
-# PixieTech Backend
+# PixieTech 
+PixieTech ist eine Full-Stack Webanwendung, die mit Django entwickelt wurde.
+Die Anwendung ermöglicht es Benutzern, Projektanfragen zu senden, Nachrichten zu übermitteln 
+ud sich für einen Newsletter anzumelden.
 
-Backend für die Website **PixieTech**, entwickelt mit **Django**,
-Das Projekt verarbeitet Formularanfragen und Newsletter-Anmeldungen.
-______________________________________________________________________
+Live Demo:
+https://pixietech-fullstack.onrender.com/
 
-#Funktionen 
+## Funktionen 
+- Senden einer Projektanfrage über ein Formular
+- Kontaktformular für kurze Nachrichten
+- Newsletter-Abonnement
+- Speicherung der Daten in der Datenbank
+- Administrationsbereich zur Datenbank
+- Administrationsbereich zur Verwaltung der Anfragen und -nachrichten
 
--Projektanfrage -Formular
--Newsletter-Anmeldung
--Django Admin Interface
+  ## Technologien
+  Backend:
+  - Python
+  - Django 4.2.16
+  - Django Admin
+  - Dganjo Forms
+  Frontend:
+  - HTML
+  - CSS
+  - JavaScript
+  Datenbank:
+  - SQLite/postgreSQL
+  Deployment:
+  -Render
 
+## Projektziel
+Dieses Projekt wurde im Rahmen meines Selbststudiums entwickelt,
+um praktisches Erfahrungen in der Webentwicklung mit Django zu sammeln.
+Der Fokus lag auf der Entwicklung einer vollstangigen Webanwendung mit Backend,
+Frontend, Datenbank und Deployment.
 
-_____________________________________________________________________
+## Administrationsbereich
+Der Django-Adminbereich ermöglich die Verwaltung von:
+- Projektanfragen
+- Nachtichten
+- Newsletter-Abo
 
-#Projekt lokal starten
+## Zukunftige Verbesserungen
+- Verbesserung des Designs
+- Erweiterung der Funktionalität
+- Optimierung der Benutzerfreundlichkeit
 
-´´´bash
-python -m venv venv
-venv\Scripts\activate
-pip instal -r requirements.txt
-python manage.py migrate
-python manage.py runserver
+## Autorin
+Dieses Projekt wurde von mir im Rahmen meiner Umschulung zur Fachinformatikerin 
+für Anwendungsentwicklung entwickelt, mit dem Ziel, praktische Erfahrungen in der Fill-Stack-Webentwicklung zu sammeln.
 
-______________________________________________________________________
-
-Backend läuft unter:
-http://127.0.0.1:8000/
-Admin-Bereich
-http://127.0.0.1:8000/admin/
+## Status 
+aktiv entwickelt und online vwerfügbar
