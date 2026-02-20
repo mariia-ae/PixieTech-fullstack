@@ -57,8 +57,10 @@ Der Django-Adminbereich ermöglich die Verwaltung von:
 - Optimierung der Benutzerfreundlichkeit
 
 ## Screenshots
--
--
+![Startseite](screenshots/startseite1.png)
+![Startseite](screenshots/startseite2.png)
+![Projektformular](screenshots/projektformular1.png)
+![Projektformular](screenshots/projektformular2.png)
 
 ## Autorin
 Dieses Projekt wurde von mir im Rahmen meiner Umschulung zur Fachinformatikerin 
