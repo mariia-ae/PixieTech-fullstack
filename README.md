@@ -20,12 +20,15 @@ Backend:
 - Django 4.2.16
 - Django Admin
 - Dganjo Forms
+  
 Frontend:
 - HTML
 - CSS
 - JavaScript
+  
 Datenbank:
 - SQLite/postgreSQL
+
 Deployment:
 -Render
 
