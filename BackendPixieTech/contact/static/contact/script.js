@@ -59,7 +59,7 @@ if (form && successMessage) {
             alert ("Bitte wählen Sie die Art des Projekts");
             return;
         }
-        const phoneInput = form.querySelector('[name="phone]');
+        const phoneInput = form.querySelector('[name="phone"]');
         const formData ={
             name:`${firstname} ${lastname}`,
             email: email,
