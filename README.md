@@ -19,7 +19,7 @@ Backend:
 - Python
 - Django 4.2.16
 - Django Admin
-- Dganjo Forms
+- Django Forms
   
 Frontend:
 - HTML
