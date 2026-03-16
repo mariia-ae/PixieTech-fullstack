@@ -67,4 +67,4 @@ Dieses Projekt wurde von mir im Rahmen meiner Umschulung zur Fachinformatikerin
 für Anwendungsentwicklung entwickelt, mit dem Ziel, praktische Erfahrungen in der Fill-Stack-Webentwicklung zu sammeln.
 
 ## Status 
-Aktiv entwickelt und online vwerfügbar.
+Aktiv entwickelt und online verfügbar.
