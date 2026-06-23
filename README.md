@@ -68,7 +68,6 @@ The Django Admin interface allows management of:
 ![Projektformular](screenshots/projektformular1.png)
 ![Projektformular](screenshots/projektformular2.png)
 
-für Anwendungsentwicklung entwickelt, mit dem Ziel, praktische Erfahrungen in der Fill-Stack-Webentwicklung zu sammeln.
 
 ## Status 
-Aktiv entwickelt und online verfügbar.
+actively development and available online.
